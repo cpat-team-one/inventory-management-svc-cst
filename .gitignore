@@ -41,3 +41,6 @@ pipeline-build-config.json
 /.idea/
 /.idea/
 /.idea/
+
+.settings/org.eclipse.jdt.core.prefs
+.DS_Store
